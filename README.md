@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=wakaru44&count_private=true&show_icons=true" width="50%"/><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wakaru44&layout=compact" width="45%" />
+
+
+
+- 🔭 I’m currently working on a bunch of random things connected with python and running in the cloud.
+- 🌱 I’m currently expanding my product management skills.
+- 👯 I’m looking to collaborate on terraforming the world one company at a time.
+- 📫 How to reach me:
+    - keybase.io/wakaru44
+
+<!--
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
